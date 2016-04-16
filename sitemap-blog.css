@@ -14,7 +14,7 @@
 #tabbed-toc .loading {
   display:block;
   padding:5px 10px;
-  font:normal bold 10px/normal Helmet,Freesans,Sans-Serif;
+  font:normal bold 12px/normal Helmet,Freesans,Sans-Serif;
   color:white;
 }
 
@@ -27,9 +27,9 @@
 }
 
 #tabbed-toc .toc-tabs {
-  width:20%;
+  width:17%;
   float:left;
-  padding-left:40px;
+  margin-left:3%;
 }
 
 #tabbed-toc .toc-tabs li a {
@@ -64,7 +64,7 @@
 
 #tabbed-toc .toc-content,
 #tabbed-toc .divider-layer {
-  width:80%;
+  width:75%;
   float:right;
   background-color:white;
   border-left:5px solid #275827;
@@ -88,15 +88,15 @@
 #tabbed-toc .panel {
   position:relative;
   z-index:5;
-  font:normal normal 10px/normal Helmet,Freesans,Sans-Serif;
+  font:normal normal 12px/normal Helmet,Freesans,Sans-Serif;
 }
 
 #tabbed-toc .panel li a {
   display:block;
   position:relative;
   font-weight:bold;
-  font-size:11px;
-  color:#892412;
+  font-size:12px;
+  color:#000;
   line-height:20px;
   height:20px;
   padding:0 12px;
@@ -109,7 +109,7 @@
   display:block;
   font-style:italic;
   font-weight:normal;
-  font-size:10px;
+  font-size:12px;
   color:#666;
   float:right;
 }
@@ -134,7 +134,7 @@
 }
 
 #tabbed-toc .panel li:nth-child(even) {
-  background-color:#FFE8E3;
+  background-color:#99CCFF;
 }
 
 #tabbed-toc .panel li a:hover,
@@ -168,7 +168,7 @@
   }
   #tabbed-toc .toc-tabs li a,
   #tabbed-toc .toc-tabs li a.active-tab {
-    background-color:#224C19;
+    background-color:#0066ff;
     -webkit-box-shadow:2px 0 7px rgba(0,0,0,.4);
     -moz-box-shadow:2px 0 7px rgba(0,0,0,.4);
     box-shadow:2px 0 7px rgba(0,0,0,.4);
