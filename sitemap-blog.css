@@ -29,6 +29,7 @@
 #tabbed-toc .toc-tabs {
   width:17%;
   float:left;
+  padding-left:3%;
 }
 
 #tabbed-toc .toc-tabs li a {
@@ -171,7 +172,6 @@
     -webkit-box-shadow:2px 0 7px rgba(0,0,0,.4);
     -moz-box-shadow:2px 0 7px rgba(0,0,0,.4);
     box-shadow:2px 0 7px rgba(0,0,0,.4);
-    padding-left:3%;
   }
   #tabbed-toc .toc-tabs li a.active-tab {
     background-color:white;
