@@ -29,7 +29,6 @@
 #tabbed-toc .toc-tabs {
   width:17%;
   float:left;
-  margin-left:3%;
 }
 
 #tabbed-toc .toc-tabs li a {
@@ -43,6 +42,7 @@
   text-decoration:none;
   padding:0 12px;
   cursor:pointer;
+  margin-left:3%;
 }
 
 #tabbed-toc .toc-tabs li a:hover {
