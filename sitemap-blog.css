@@ -29,7 +29,7 @@
 #tabbed-toc .toc-tabs {
   width:17%;
   float:left;
-  padding-left:3%;
+  margin-left:3%;
 }
 
 #tabbed-toc .toc-tabs li a {
