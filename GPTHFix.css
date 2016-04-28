@@ -164,7 +164,7 @@ left:0;
 }
 .footer a:link,.footer li a:visited{color:#999;text-decoration:none;font-weight:600;position:relative;text-indent:-18px;}
 .footer li a:hover{color:#ccc}
-#credit {background:#0088b2;font:1.2em Fujiyama;color:#fff;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #0dd;text-align:center;text-transform:uppercase;position:relative}
+#credit {background:#006666;font:1.2em Fujiyama;color:#fff;width:100%;overflow:hidden;clear:both;padding:10px 0 0px 0;line-height:18px;border-top:1px solid #0dd;text-align:center;text-transform:uppercase;position:relative}
 #credit a {color:#ff1 !important;text-decoration:none}
 #credit a:hover {color:#fe2 !important;text-decoration:none}
 #credits{background:#1e1e1e;font:1.2em Fujiyama;color:#777;width:100%;overflow:hidden;clear:both;padding:20px 0 0px 0;line-height:18px;border-top:1px solid #333;text-align:center;text-transform:uppercase}
@@ -172,7 +172,6 @@ left:0;
 #credits a:hover{color:#777;text-decoration:none}
 .PopularPosts .item-thumbnail img{width:72px;height:72px;padding:4px;margin:0;border:1px solid #ddd}
 #top-arrow {
-
 position:fixed;
 top:90%;
 right:0;
