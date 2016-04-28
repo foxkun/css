@@ -318,5 +318,3 @@ text-transform: uppercase !important;
 .bton.red{background:#e74c3c}
 .bton.dmca{margin-left:0px;padding-top:5px;background:#fff}
 
-/* nút like trượt dọc */
-.kslsocialdock{z-index:2;position:fixed;visibility:hidden;overflow:hidden;transition:all .5s ease-in-out;transition-delay:.1s;left:-70px;top:200px}.google-plus-now{background:#CB2027;z-index:99999;padding:7px;width:60px}.facebook-like-now{background:#3B5998;z-index:99999;padding:7px;width:60px}.kslsocialdock.show{visibility:visible;left:0}
